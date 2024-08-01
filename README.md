@@ -1,1 +1,1 @@
-# Sentiment Analysis with RNNs in PyTorch, Model deployed with TorchScript for serialization and production
+# Sentiment Detection with RNNs in PyTorch, Model deployed with TorchScript using Tracing Method, System tested on web-scraped text from BeautifulSoup
